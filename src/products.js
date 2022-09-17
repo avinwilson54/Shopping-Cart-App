@@ -1,0 +1,38 @@
+export default [
+  {
+    id: 1,
+    img: "./images/pink_hoodie.png",
+    name: "Rose",
+    color: "Pink",
+    size: "S",
+    stock: "In Stock",
+    price: "35.00",
+  },
+  {
+    id: 2,
+    img: "./images/blue_hoodie.png",
+    name: "BTS",
+    color: "Blue",
+    size: "M",
+    stock: "In Stock",
+    price: "40.00",
+  },
+  {
+    id: 3,
+    img: "./images/mixed_hoodie.png",
+    name: "HellCat",
+    color: "Yellow, Black",
+    size: "L",
+    stock: "In Stock",
+    price: "55.00",
+  },
+  {
+    id: 4,
+    img: "./images/gray_hoodie.png",
+    name: "Galeto",
+    color: "Gray",
+    size: "XL",
+    stock: "In Stock",
+    price: "45.00",
+  },
+];
